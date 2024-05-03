@@ -33,7 +33,7 @@ const Photos = () => {
   }, [index]);
 
   return (
-    <div name="photo" className="w-full">
+    <div name="home" className="w-full">
       {images.map((image, i) => (
         <animated.img
           key={i}

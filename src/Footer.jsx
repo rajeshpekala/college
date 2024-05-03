@@ -14,7 +14,7 @@ const Footer = () => (
           &copy; All rights reserved to Sai Vineeth Institutions&#169;
         </h3>
       </div>
-      <div className="flex flex-col px-8 py-1 list-none text-white mx-8 mt-12">
+      <div className="flex flex-col px-8 py-1 list-none text-white mx-8 mt-20">
         <h3 className="font-bold text-xl">Follow Us on</h3>
         <li className="py-2 text-lg">
           <a
@@ -76,7 +76,7 @@ const Footer = () => (
         </li>
       </div>
 
-      <div className="flex flex-col px-8 sm:py-0 list-none ml-8 text-white">
+      <div className="flex flex-col px-8 sm:py-0 list-none xl:ml-8 ml-20 text-white">
         <h3 className="font-bold text-white text-xl">
           Other Educational Institutions:
         </h3>

@@ -18,6 +18,7 @@ function App() {
    <AboutUs/>
    <Academics/>
   <OurStaff/>
+  <Updates/>
   <ContactUs/>
   <Footer/>
     </div>
