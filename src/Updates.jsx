@@ -6,7 +6,7 @@ const Updates = () => {
       <h1 className="text-2xl font-bold underline flex justify-center mt-8">
         Latest Updates
       </h1>
-      <div className="xl:flex xl:flex-row m-10 ml-4 xl:ml-0 flex flex-col">
+      <div className="xl:flex xl:flex-row mx-auto ml-4 xl:ml-0 flex flex-col">
         <div className="xl:w-1/3 w-80 h-96 border border-black rounded-md flex flex-col bg-emerald-200 m-1">
           <h1 className="text-xl font-bold">Academic Syllabus</h1>
           <ul className="font-semibold ml-2">
