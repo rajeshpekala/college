@@ -77,7 +77,9 @@ const Footer = () => (
       </div>
 
       <div className="flex flex-col px-8 sm:py-0 list-none ml-8 text-white">
-        <h3 className="font-bold text-white text-xl">Other Educational Institutions:</h3>
+        <h3 className="font-bold text-white text-xl">
+          Other Educational Institutions:
+        </h3>
         <li className="">Sai Vineeth Degree college</li>
         <li className=" ">Sai Vineeth Junior School</li>
         <li className=" ">Sai Vineeth Coaching Center</li>

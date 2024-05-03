@@ -12,7 +12,7 @@ const AboutUs = () => {
       <h2 className="font-semibold text-xl mt-4 mx-2">
         Welcome to{" "}
         <span className="underline text-xl ">
-          Mother Theresa Educational Socities
+          Sai Vineeth Institutions
         </span>
         , where academic excellence meets vibrant campus life. Founded on a
         bedrock of innovation and inclusivity, Mother Theresa Educational

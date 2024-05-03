@@ -14,7 +14,7 @@ const ContactUs = () => {
             height="450"
             allowFullScreen=""
             loading="lazy"
-            className="rounded-md m-2 w-80 xl:w-full"
+            className="rounded-md m-2 w-80 xl:w-full mx-auto"
           ></iframe>
         </div>
 
