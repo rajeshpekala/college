@@ -54,7 +54,7 @@ const Header = () => {
 
       <div
         onClick={() => setNav(!nav)}
-        className="cursor-pointer pr-4 z-10 md:hidden ml-40 mt-4"
+        className="cursor-pointer pr-4 z-10 md:hidden ml-auto mt-4"
       >
         {nav ? <FaTimes size={30} /> : <FaBars size={30} />}
       </div>
