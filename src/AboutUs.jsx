@@ -37,7 +37,7 @@ const AboutUs = () => {
         <h2 className="text-lg font-bold">Our Beloved Principal</h2>
         <span className="text-xl font-bold">Annepu Kailasha Rao</span>
       </div>
-      <h1 className="font-bold text-xl ml-10 mt-5" name="facilities">Facilities We provide</h1>
+      <h1 className="font-bold text-2xl ml-10 mt-5" name="facilities">Facilities We provide</h1>
 
       <ul className="text-xl font-semibold ml-10 xl:flex xl:flex-row flex flex-col items-center">
         <div className="m-4 w-full md:w-1/2 lg:w-1/4">
