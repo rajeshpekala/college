@@ -15,10 +15,10 @@ const AboutUs = () => {
           Sai Vineeth Institutions
         </span>
         , where academic excellence meets vibrant campus life. Founded on a
-        bedrock of innovation and inclusivity, Mother Theresa Educational
+        bedrock of innovation and inclusivity, Sai Vineeth Educational
         Socities is dedicated to nurturing intellectual curiosity, fostering
         personal growth, and preparing students to thrive in an ever-changing
-        world. At Mother Theresa Educational Socities, our commitment to
+        world. At Sai Vineeth Educational Socities, our commitment to
         excellence is reflected in our diverse array of programs spanning the
         arts, sciences, humanities, and professional fields. Whether you're
         exploring the frontiers of scientific research, honing your artistic
